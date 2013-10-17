@@ -19,7 +19,7 @@ interface iRomanNumeral {
  *
  * @author mrhelly
  */
-class RomanNumeral /*implements iRomanNumeral*/ {
+class RomanNumeral implements iRomanNumeral {
 
   private $_magnitude;
 //Statics.
